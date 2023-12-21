@@ -1,5 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/77cc30f2a04e42f69f1e2dffc906fff9c3f7dd3efef03f1eff8352dc015d58fe/68747470733a2f2f7765626974657870657274732e636f6d2f696d616765732f62616e6e6572315f312e676966
-)
+
 <h1 align="center">Hi 👋, I'm Farjana Akter</h1>
 <h3 align="center">A passionate frontend developer in United Kingdom</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
