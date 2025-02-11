@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farjana74&label=Profile%20views&color=0e75b6&style=flat" alt="farjana74" /> </p>
 
 
-- 🌱 I’m currently learning **Automation Testing, backend Development**
+- 🌱 I’m currently learning *Automation Testing, backend Development*
 
 - 👨‍💻 All of my projects are available at [https://farjana-portfolio.netlify.app/](https://farjana-portfolio.netlify.app/)
 
